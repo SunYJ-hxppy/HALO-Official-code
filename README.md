@@ -178,11 +178,11 @@ argmax_motion_flow: True        # Argmax over reference motion flow
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{jung2025halo,
-  title   = {Controlling Motion Transfer in Diffusion Transformers via Attention Heads},
-  author  = {Jung, Sunyoung and Park, Jiwoo and Choi, Yoonseok and Choo, Kyobin
-             and Yang, Ming-Hsuan and Hwang, Seong Jae},
-  year    = {202ECCV}
+@article{jung2026controlling,
+  title={Controlling Motion Transfer in Diffusion Transformers via Attention Heads},
+  author={Jung, Sunyoung and Park, Jiwoo and Choi, Yoonseok and Choo, Kyobin and Yang, Ming-Hsuan and Hwang, Seong Jae},
+  journal={arXiv preprint arXiv:2607.11081},
+  year={2026}
 }
 ```
 
